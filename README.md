@@ -1,7 +1,7 @@
 # cv
 #CV
 > Title:CV
-> Live: 
+> Live: thappasarns.github.io/cv/
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -50,7 +50,7 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- 
+- Angela Yu 
 
 
 ## Contact
